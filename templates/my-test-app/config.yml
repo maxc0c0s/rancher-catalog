@@ -1,0 +1,5 @@
+name: My Test App
+description: |
+  App to test Rancher features
+version: 1.0
+category: "POC"
