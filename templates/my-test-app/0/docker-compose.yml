@@ -1,2 +1,4 @@
 db:
-  image: redis
+  image: maxc0c0s/rancher-test-app
+  ports:
+    - "5000:5000"
