@@ -1,0 +1,6 @@
+.catalog:
+  name: My Test App
+  version: 1.7
+  description: |
+   Test App for Rancher POC. 
+  uuid: My-Test-App-2
