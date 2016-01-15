@@ -1,4 +1,4 @@
 app:
-  image: maxc0c0s/rancher-test-app:1.5
+  image: maxc0c0s/rancher-test-app:1.6
 db:
   image: redis
