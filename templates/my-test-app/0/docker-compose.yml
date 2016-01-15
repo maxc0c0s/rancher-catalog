@@ -1,2 +1,2 @@
-db:
+app:
   image: maxc0c0s/rancher-test-app
